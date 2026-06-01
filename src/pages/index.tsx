@@ -80,12 +80,12 @@ const Index = () => {
 				)}
 			</div>
 			<div className="absolute bottom-4 left-4 flex gap-2">
-				<a href="https://edlessz.com" target="_blank" rel="noreferrer">
-					edlessz
+				<a href="https://edlrod.com" target="_blank" rel="noreferrer">
+					edlrod
 				</a>
 				<span>•</span>
 				<a
-					href="https://github.com/edlessz/infinisweeper"
+					href="https://github.com/edlrod/infinisweeper"
 					target="_blank"
 					rel="noreferrer"
 				>
